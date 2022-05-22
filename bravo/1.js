@@ -12,3 +12,4 @@ ejercicio.shift()
 
 
 console.log(ejercicio)
+.
