@@ -1,1 +1,1 @@
-consolo.log(Bravo).
+consolo.log("Bravo").
